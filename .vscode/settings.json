@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/flamingm0e/.platformio/penv/bin:/home/flamingm0e/.platformio/penv:/usr/local/bin:/usr/local/sbin:/home/flamingm0e/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/flamingm0e/.yadr/bin:/home/flamingm0e/.yadr/bin/yadr:/home/flamingm0e/esp/xtensa-esp32-elf/bin:/home/flamingm0e/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
